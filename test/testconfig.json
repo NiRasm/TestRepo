@@ -1,10 +1,10 @@
 {
     "endpoints": {
         "mikhep": {
-            "default_gateway:":"192.168.7.1",
+            "default_gateway:":"XXX.XXX.XXX.XXX",
             "vlan":{
-                "ServerVlan:":"192.168.8.0/24",
-                "ClientVlan:":"192.168.9.0/24"
+                "ServerVlan:":"x.x.x.x/24",
+                "ClientVlan:":"x.x.x.x/24"
             }
                   
         }
